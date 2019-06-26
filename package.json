@@ -1,0 +1,9 @@
+{
+  "name": "date-prototype",
+  "version": "1.0.0",
+  "description": "date formatter",
+  "main": "index.js",
+  "repository": "https://github.com/ccwq/date-prototype",
+  "author": "scwqd@qq.com",
+  "license": "MIT"
+}
